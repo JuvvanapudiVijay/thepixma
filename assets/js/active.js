@@ -482,6 +482,7 @@ Author: RRDevs
 			arrows: true,
 			autoplay: true,
 			slidesToShow: 1,
+			autoplay: false,
 			infinite: true,
 			slidesToScroll: 1,
 			autoplaySpeed: 1500,
